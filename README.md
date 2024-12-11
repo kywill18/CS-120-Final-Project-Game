@@ -1,33 +1,13 @@
 # CS-120-Final-Project-Game
 
-CS 120 Final Game Pseudo - Code:
+You player as a character who comes across an enemy and have to fight them. This will play out automatically.
 
-A turn based combat game. Based on Street Fighter/Pokemon Battles
+Throughout this project I definitely learned that some of the simple ideas that you might come up can actually be trickier than they look.
 
-Using the TBC file for our TBC project 
-(changing a few things)
+I got stuck on taking the text based version of the program and put it in pygame.
 
-Class Hero 
+I would like to improve the quality of the game and maybe just have more user input.
 
-Class Enemy 
-
-Class Game 
+I mostly stayed with my first idea but I did get rid of a few things to make it less challenging.
 
 
-self.name = name -> “Player” “Enemy”
-
-self.hitPoints = hitPoints -> HP 
-
-self.hitChance = hitChance -> the chance that the attack hits the other character (50/50 just to be fair)
-
-self.maxDamage = maxDamage -> the max amount of damage the character can do to the other
-
-self.armor = armor -> can deflect damage. the points that are deflected don’t subtract from hitPoints
-
-
-if i have time:
--add a dice component where who ever gets the higher number gets to attack first
-
--having move characters that do basic idle movements
-
--maybe a start screen?
